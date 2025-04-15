@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bemndy, or Brandon 
-- 👀 I’m interested in ML, Real Estate, Energy, Design, Music
+- 👀 I’m interested in ML, Data Engineering, Fintech, Music, and Design
 - 🌱 I’m currently learning Systems Programming, Data Structures, and Microeconomics
 - 💞️ I’m looking to collaborate on open-source projects that look cool! 
 - 📫 How to reach me @linkedin/pm

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bemndy, or Brandon 
-- 👀 I’m interested in ML, Data Engineering, Fintech, Music, and Design
-- 🌱 I’m currently learning Systems Programming, Data Structures, and Microeconomics
-- 💞️ I’m looking to collaborate on open-source projects that look cool! 
+- 👀 I’m interested in ML, Data Engineering, Robotics, Music, and Design
+- 🌱 I’m currently learning Operating Systems, Intro to Artificial Intelligence, and Integrated Circuits
+- 💞️ I’m looking to collaborate on projects that look cool! 
 - 📫 How to reach me @linkedin/pm
 - ⚡ Fun fact: im baby jalen brunson 
 

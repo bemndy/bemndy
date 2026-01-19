@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bemndy, or Brandon 
-- 👀 I’m interested in ML, SWE, and autonomous navigation
-- 🌱 I’m currently learning Operating Systems, Intro to Artificial Intelligence, and Digital Integrated Circuits
-- 💞️ I’m reseraching about nav2 and scikit-learn/tensorflow for a new project
+- 👀 I’m interested in ml and signal processing
+- 🌱 I’m currently learning react, typescript, and pytorch
+- 💞️ I’m reseraching about nav2 and audio processing
 - 📫 How to reach me @linkedin/pm
 - ⚡ Fun fact: my archetype is jalen brunson
 

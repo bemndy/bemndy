@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @bemndy, or Brandon 
-- 👀 I’m interested in ml and signal processing
+- 👀 I’m interested in ml and audio engineering
 - 🌱 I’m currently learning react, typescript
 - 💞️ I’m reseraching about nav2
-- 📫 How to reach me @linkedin/pm
-- ⚡ Fun fact: my archetype is jalen brunson
 
 <!---
 bemndy/bemndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

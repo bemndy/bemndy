@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bemndy, or Brandon 
 - 👀 I’m interested in ml and audio engineering
-- 🌱 I’m currently learning react, typescript
+- 🌱 I’m currently learning spring and reading "Designing Data-Intensive Applications"
 - 💞️ I’m reseraching about nav2
 
 <!---
